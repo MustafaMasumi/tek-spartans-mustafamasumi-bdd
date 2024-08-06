@@ -5,12 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bea1864-a255-4ee6-808c-e2627b9d17af" name="Changes" comment="create">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/test.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CreateNewAccountSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HooksSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RandomGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SecurityTestSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SetupTestSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SignInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/commonsteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testrunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utility" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/CreateNewAccount.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/SecurityTest.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/SetupTest.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -104,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722304557576</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="create">
+      <option name="closed" value="true" />
+      <created>1722564483949</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722564483950</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
